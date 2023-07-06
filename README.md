@@ -1,3 +1,4 @@
 # browser-detectoras
-Get the correct browser names for all platforms.
+Get browser names for all platforms.
+<br />
 Detection works on all types of mobiles, tablets and computers.
